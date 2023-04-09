@@ -142,3 +142,11 @@ p {
     background-image: linear-gradient(to bottom,  #30e3cb, #2bc4ad);
     text-decoration: none;
   }
+
+.bottom-right {
+    float:right;
+}
+
+.a {
+    color:  #11999E;
+}
